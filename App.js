@@ -55,7 +55,7 @@ const styles = StyleSheet.create({
     flex: 1,
     alignItems: 'center',
     justifyContent: 'center',
-    backgroundColor: 'salmon',
+    backgroundColor: '#red',
   },
   titleText:{
     fontFamily: 'Baskerville',
@@ -65,7 +65,7 @@ const styles = StyleSheet.create({
   },
   button: {
     alignItems: 'center',
-    backgroundColor: 'powderblue',
+    backgroundColor: 'blue',
     width: 200,
     height: 44,
     padding: 10,
